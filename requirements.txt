@@ -1,2 +1,4 @@
-reflex==0.7.1
 reflex-local-auth
+reflex==0.4.7
+typer==0.9.0
+click==8.1.3
